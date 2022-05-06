@@ -1,0 +1,61 @@
+
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+
+
+.banner {
+    width: 50%;
+    height: 50%;
+    box-shadow: 5px 5px 10px black;
+    
+}
+
+h1{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 60px;
+    margin-top: 1%;
+    text-shadow: 1px 1px 4px #FFFFFF;
+}
+
+.tabuada {
+    width: 20%;
+    height: 20%;
+    background-color: #F6F0E0;;
+    position: relative;
+    bottom: 350px;
+}
+
+.tabuada-p{
+    background-color: #0b340b  ;
+    color: #fff;
+}
+
+.mais-algumas {
+    background-color: #F6F0E0;
+}
+
+.nosso-conteudo {
+   position: relative;
+   left: 21%;
+}
+
+.nosso-conteudo p{
+    width: 29%;
+}
+
+footer {
+    background-image: url('./img/footer.jpg');
+   
+}
+
+.footer-p-educao{
+    text-align: center;
+}
+
+
